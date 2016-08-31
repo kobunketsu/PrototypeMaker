@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>935EB2DC-F849-44AE-A59C-DCCE8395FB19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PrototypeMaker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ACC9461A4C3DD81A966F13E51C3CFAB52EC287EF</key>
+		<string>https://github.com/kobunketsu/PrototypeMaker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PrototypeMaker.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ACC9461A4C3DD81A966F13E51C3CFAB52EC287EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kobunketsu/PrototypeMaker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ACC9461A4C3DD81A966F13E51C3CFAB52EC287EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ACC9461A4C3DD81A966F13E51C3CFAB52EC287EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PrototypeMaker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
